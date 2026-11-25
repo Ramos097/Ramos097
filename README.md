@@ -8,7 +8,7 @@
 Building reliable software solutions through clean code,
 database design and backend development.
 
-[LinkedIn](TU_LINKEDIN) · [Email](mailto:TU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/marvin-rodriguez-b501b1353/) · [Email](mailto:rodirguezm061@gmail.com)
 
 </div>
 
