@@ -92,6 +92,13 @@ software development and backend engineering.
 
 ---
 
+## 🌎 Languages
+
+- Spanish: Native
+- English: Intermediate (B1)
+
+---
+
 <div align="center">
 
 **Thanks for visiting my profile!**
